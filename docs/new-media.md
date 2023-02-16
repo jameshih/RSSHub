@@ -606,7 +606,7 @@ Tag
 
 ### Topic
 
-<Route author="nczitzk" example="/hbr/topic/leadership" path="/hbr/topic/:topic?/:type?" :paramsDesc="['话题，可在，默认为 Leadership', '类别，见下表，默认为 Latest']">
+<Route author="nczitzk jameshih" example="/hbr/topic/leadership" path="/hbr/topic/:topic?/:type?" :paramsDesc="['话题，可在，默认为 Leadership', '类别，见下表，默认为 Latest']">
 
 | LATEST | POPULAR | FROM THE STORE | FOR YOU |
 | ------ | ------- | -------------- | ------- |

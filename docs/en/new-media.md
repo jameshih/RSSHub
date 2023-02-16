@@ -352,7 +352,7 @@ Country
 
 ### Topic
 
-<RouteEn author="nczitzk" example="/hbr/topic/leadership" path="/hbr/topic/:topic?/:type?" :paramsDesc="['Topic, can be found in URL, Leadership by default', 'Type, see below, Latest by default']">
+<RouteEn author="nczitzk jameshih" example="/hbr/topic/leadership" path="/hbr/topic/:topic?/:type?" :paramsDesc="['Topic, can be found in URL, Leadership by default', 'Type, see below, Latest by default']">
 
 | LATEST | POPULAR | FROM THE STORE | FOR YOU |
 | ------ | ------- | -------------- | ------- |
